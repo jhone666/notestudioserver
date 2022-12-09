@@ -9,7 +9,7 @@ NoteStudio是一款MarkDown文本编辑器，功能丰富，致力于提高文�
 
 #### 安装教程
 
-点击这里 (下载NoteStudio)[NoteStudio.dll] ，下载完成后修改文件格式为zip，解压即可使用
+你可以在这里下载NoteStudio https://jhone666.github.io/notestudioserver/NoteStudio.dll ，下载完成后修改文件格式为zip，解压即可使用
 
 #### 使用说明
 
