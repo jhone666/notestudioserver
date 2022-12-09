@@ -1,36 +1,20 @@
-# notestudioserver
+# notestudio
 
-#### Description
-NoteStudio服务
+#### 介绍
+NoteStudio是一款MarkDown文本编辑器，功能丰富，致力于提高文字创作者的工作体验。
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+#### 软件架构
+采用流行的JavaFx框架搭建，具有美观，可移植性高的特点。
 
 
-#### Gitee Feature
+#### 安装教程
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+点击这里 (下载NoteStudio)[NoteStudio.dll] ，下载完成后修改文件格式为zip，解压即可使用
+
+#### 使用说明
+
+如有问题，可以添加QQ：897531189 咨询，你也可以发送邮件 zeng.jiangwen@qq.com 联系开发者
+
+#### 参与贡献
+
+你可以与开发者联系，提出您宝贵的意见，一起完善NoteStudio功能。
